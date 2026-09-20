@@ -38,13 +38,13 @@ banner() {
     echo -e ${GREEN}⠀⠀⠀⠀⠀⠀⠀⠀⠀⡀⣿⣿⣿⠃⣾⣿⣿⡟⠁⠀⠀⢻⣿⣇⢻⣧⠀⠀⠀⠀⠀⠀⠀
     echo -e ${GREEN}⠀⠀⠀⠀⠀⠀⢀⣠⣾⢱⣿⣿⣿⢸⣿⣿⣿⠁⢀⣠⠤⠤⣿⣿⡘⣿⣇⠀⠀⠀⠀⠀⠀
     echo -e ${GREEN}⠀⠀⠀⠀⠀⠈⠉⠉⣡⣿⣿⣿⠇⣾⣿⣿⠇⠀⢀⣴⣶⣶⠊⢿⣧⢻⣿⡄⠀⠀⠀⠀⠀       ${RED}Hi 👋,
-    echo -e ${GREEN}⠀⠀⠀⠀⠀⠀⢠⣾⣿⡿⠟⣡⣾⣿⣿⡟⠀⠀⠀⠉⠉⠀⠀⣀⡻⣷⡹⣿⣦⣤⠀⠀⠀       ${RED}I am anshika,
+    echo -e ${GREEN}⠀⠀⠀⠀⠀⠀⢠⣾⣿⡿⠟⣡⣾⣿⣿⡟⠀⠀⠀⠉⠉⠀⠀⣀⡻⣷⡹⣿⣦⣤⠀⠀⠀       ${RED}I am anshika💖,
     echo -e ${GREEN}⠀⠀⠀⠀⠀⠀⢸⡏⣴⠿⠿⡿⠿⢟⣫⡏⠐⠶⠆⠀⠀⠀⣸⣿⢹⣝⢿⣶.⠀⠀⠀⠀       ${RED}I can hack your microphone via a single link...
     echo -e ${GREEN}⠀⠀⠀⠀⠀⠀⣸⢻⡏⣾⣿⣿⣿⢿⡋⠀⢉⣉⡝⠀⠀⣰⣿⣿⡏⣿⣷⠻⣷⣄⠀⠀⠀
     echo -e ${GREEN}⠀⠀⠀⠀⠀⠠⠤⠞⣡⣿⣿⣿⢟⠸⣿⣦⣀⠀⢀⣠⡞⢻⣿⣿⣷⠘⢿⡄⠀⠉⠛⠒⠂       ${RED}Current Version : ${CYAN}${__version__}
     echo -e ${GREEN}⠀⠀⠀⠀⠀⢀⣠⣾⠿⢟⣫⡶⢫⠀⣿⡿⢿⣿⡿⠋⢠⣾⣿⣿⣿⡟⣮⠻⢤⣀⠀⠀⠀       ${RED}Supported : ${CYAN}Linux, Termux
     echo -e ${GREEN}⠀⠀⠀⠐⠋⠉⣱⢸⣿⣿⠏⣴⣿⡇⢸⣇⠀⠉⠁⢀⣿⡿⢿⣿⣿⡇⢹⣷⡀⠀⠀⠀⠀
-    echo -e ${GREEN}⠀⠀⠀⠀⢀⣼⡇⢸⣿⡏⣼⣿⣿⡇⢸⣿⡄⠀⢀⡿⠁⠀⢸⣿⣿⡇⣼⣿⣷⠀⠀⠀⠀       ${RED}Developed by : ${CYAN}Aman meena ✨
+    echo -e ${GREEN}⠀⠀⠀⠀⢀⣼⡇⢸⣿⡏⣼⣿⣿⡇⢸⣿⡄⠀⢀⡿⠁⠀⢸⣿⣿⡇⣼⣿⣷⠀⠀⠀⠀       ${RED}Developed by : ${CYAN}Anshika ✨
     echo -e ${GREEN}⠀⠀⠀⢠⣿⣿⠇⢸⣿⡇⣿⣿⣿⡇⢸⡏⡇⠀⢸⠁⠀⢀⣾⣿⢟⣼⣿⠟⣫⡇⠀⠀⠀
     echo -e ${GREEN}⠀⠀⠀⢸⣿⠃⣠⣾⣿⢀⣿⣿⣿⡇⡼⠀⣷⠀⣾⠀⢠⣾⡿⢣⣿⣿⣷⡙⢿⣷⡀⠀⠀
     echo -e ${GREEN}⠀⢀⣀⣾⣧⣾⣿⢿⣣⣾⣿⢿⣫⠆⠁⠀⡇⠀⢹⡀⠈⣿⣇⠈⠻⢿⣿⣿⣶⣹⣷⠀⠀       ${CYAN}NOTE:-
