@@ -3,7 +3,7 @@ Anshika is a online real time hacking tool which is used for Capturing audio (.w
 
 ### THIS TOOL IS CREATED FOR EDUCATIONAL PURPOSE, DON'T MISUSE IT.
 <p align="center">
-  <img src=".img/Mohini.png">
+  <img src=".img/Anshika.png">
 </p>
 
 ### How it works?
