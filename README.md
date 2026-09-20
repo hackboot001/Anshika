@@ -9,7 +9,7 @@ Anshika is a online real time hacking tool which is used for Capturing audio (.w
 ### How it works?
 
 After the user grants microphone permissions, a website redirect button of your choice is released to distract the target while small audio files (about 4 seconds in wav format) are sent to the attacker.
-It uses Recorderjs, plugin for recording/exporting the output of Web Audio API nodes (https://github.com/mattdiamond/Recorderjs)
+It uses Recorderjs, plugin for recording/exporting the output of Web Audio API nodes (https://github.com/hackboot001)
 
 ### Features:
 
